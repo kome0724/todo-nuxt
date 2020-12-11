@@ -1,0 +1,31 @@
+{
+  "name": "test-nuxt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/vue-fontawesome": "^2.0.0",
+    "@nuxtjs/axios": "^5.12.3",
+    "axios": "^0.21.0",
+    "core-js": "^3.6.5",
+    "nuxt": "^2.14.6",
+    "nuxt-fontawesome": "^0.4.0",
+    "sequelize": "^5.22.3",
+    "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {
+    "@vue/test-utils": "^1.1.0",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-jest": "^26.5.0",
+    "jest": "^26.5.0",
+    "vue-jest": "^3.0.4"
+  }
+}
