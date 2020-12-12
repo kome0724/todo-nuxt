@@ -28,5 +28,21 @@
     "babel-jest": "^26.5.0",
     "jest": "^26.5.0",
     "vue-jest": "^3.0.4"
-  }
+  },
+  "description": "## Build Setup",
+  "main": "jest.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kome0724/todo-nuxt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kome0724/todo-nuxt/issues"
+  },
+  "homepage": "https://github.com/kome0724/todo-nuxt#readme"
 }
